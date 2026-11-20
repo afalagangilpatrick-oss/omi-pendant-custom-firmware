@@ -1,0 +1,5 @@
+omi/firmware/v2.9.0/
+build/
+*.pyc
+__pycache__/
+.claude/
